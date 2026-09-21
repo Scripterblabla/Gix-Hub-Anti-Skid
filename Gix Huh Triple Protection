@@ -1,0 +1,106 @@
+--- DISCLAIMER THIS IS NOT IP LOGGER OR COOKIE LOGGER IS A BYTE ARRAY TO AVOID SKIDDER
+--- BRO IF YOU WANT TO STEAL THE SCRIPT YOU WILL REGRET IT
+--- PLEASE DON'T STEAL IT
+--- Join My Discord server bro if you want animation I can make for you
+--- https://discord.gg/sdzkmznXrf
+--- Original Made By Scripterblabla 
+--- Enjoy The Script
+
+
+
+
+
+
+
+--[[
+                                                               ..........''',;;;'                           
+                                                               ...',;:clodxxkOO000000KKXXNXKOxoc,.                           
+                                                         .,ldkO0XNWMMMMMMMMMMMMMMMMMMMMMMNk:.                                
+                                                     .,lxKNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNK0kxol:;'..                       
+                                                 .'cxKWMWKlcxOOkxxkkxkOOOO00KXXNXXKK0KK0OOkxKWMMMMWNX0Oxolc;'.               
+                                              .:d0NMMMMMMXkdkkOO0KK0OOOkxxxxkkOOOxoccc::c;'c0WMMMMMMMWNX0Okxo:.              
+                                          .,cxXWMMMMMMMMMMMWMMWMMMMMMMMMMWNXK0OO00O0KK00OkKWMMMWKkdl:;'..                    
+                                      .,lxKWMMMMMMMMMMMMMMMMMMMMMMWXOkxxkkOOOOKXWMMN0OO0NMMMMMMNo.                           
+                                 .,cokKNMMMMMMMMMMMMMMMMMMMMMMMMNkdxxO0KNWMMMMMMNKOkOXMWMMMMMMMMNOo,                         
+                               .oKWMMMMMMMMMMMMMMMMMMMMMMMMMWWWXxoKMMMMMMMMMMWXOkkKWMMMMMMMMMMMMMMMNOl,                      
+                              ,0WWMMMMMMMMMMMMMMMMMMMMMMMMMXkkOO0NMMMMMMMMMWX0OKWMMMMMMMMMMMMMMMMMMMMMNOl'                   
+                             cKMMMMMMMMMWWWMMMMMMMMMMMMMMMWolXMMMMMMMMMMMXkOOKWMMMMMMMMMMMMMMMMMMMMMMMMMMNOl'                
+                           .dNWWNK0OkddkKNWMMMMMMMMMMMMMMMWOdk00KNWMMMMMNxlxx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNkc.             
+                          .xNMNx'..  'xNMMMMMMMMMMMMMMMMMWWMWNXK0OkOXWMMXxoockWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKd,           
+                        ,oKWMWx.   .:0MMMMMMMMMMMMMMMMMMMMWMMWWMMMN0kKWMMWXdxWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOc.        
+                   .,coONMMMMXo:dkOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWMMMMOoKMWMMMMMMMMMMMMMMMMMMMWXOxdddddxkOO0KXNN0o'      
+             .':oxOXWMMMMMMMMWNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOxXMMMMMMMMMMMMMMMMMMMMMWk.          ...',;c;.     
+           'lONWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOxWMMMMMMMMMMMMMMMMMMMMMMW0;                       
+    ..',:oONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNkOMMMMMMMMMMMMMMMMMMMMMMMMMNx'                     
+   cKXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOxXMMMMMMMMMMMMMMMMMMMMMMMMMMMKc.                   
+   oWMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWOdKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk,                  
+   'OWMMMMMMMMMMMMMMMMMMMWWWWNkd0NMMMN00NWMMMMMMMMMMMMMMMMMMMMMMMMMMMMXddKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd.                
+    .oXMMMMMMMMMMMMWKx0NKl;od;  .,lkx;..';lxKWMMMMMMMMMMMMMMMMMMMMMMKkdONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0:               
+      .l0WMMMMMMWKxk: .,'                   .:kNMMMMMMMMMMMMMMMMMMWkoONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMNx'             
+        .;dKK0NMMK;                           .dWMMMMMMMMMMMMMMMMWOdKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKl.           
+           ...;kNWO'                          .dWMMMMMMMMMMMMMMMMX0XMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWO;          
+                ;xXO,                         cNMMMMMMMMMMMMMMMMMMMMMMMMMMWNKKXWMMMMMMMMMMMMMMMMMMMMMNOkKNMMMMWMMMXo.        
+                  'ld:.                       :XMMMMMMMMMMMMMMWMMMNkxkOKNMMk'..,:oxKNMMMMMMMMMMMMMMMMX: .':okKWMMMMWO;       
+                     ..                       .OMMMMMMMMMMMMMMWWN0x:.  .':ol.      .,lkXWKx0NMMMMMMMMMO.     .,cdONWMXo.     
+                                              :NMMMMMMMMMMMN0ol:..                     .c, .,o0WMMMMMMWd.        .'cd0Xk'    
+                                             .xMMMMMMMMMMXx;.                                 .;xXWMMMWNc            .,lc.   
+                                             ;XMMMMMMMMXo'                                       .cONMMMK;                   
+                                            .dWMMMMMMNx'                                           .;xXMMk.                  
+                                           .lXMMMMMNk;                                                'oKNl                  
+                                  .:c,....cKWMMMMNk,                                                    .lo.                 
+                                   .ckKKKXNMMMMMWo.                                                                          
+                                     .;OWMMMMMWXx'                                                                           
+                                      .lKXKOxo:.                                                                             
+                                        ...
+
+
+
+
+ ____  ____   ___ _____ _____ ____ _____  
+|  _ \|  _ \ / _ \_   _| ____/ ___|_   _| 
+| |_) | |_) | | | || | |  _|| |     | |   
+|  __/|  _ <| |_| || | | |__| |___  | |   
+|_|   |_| \_\\___/ |_| |_____\____| |_|   
+                                          
+ ______   __
+| __ ) \ / /
+|  _ \\ V / 
+| |_) || |  
+|____/ |_|  
+            
+  ____ _____  __  _   _ _   _ ____   
+ / ___|_ _\ \/ / | | | | | | | __ )  
+| |  _ | | \  /  | |_| | | | |  _ \  
+| |_| || | /  \  |  _  | |_| | |_) | 
+ \____|___/_/\_\ |_| |_|\___/|____/  
+                                     
+  ____ _   _   _    ____  ____ ___    _    _   _ 
+ / ___| | | | / \  |  _ \|  _ \_ _|  / \  | \ | |
+| |  _| | | |/ _ \ | |_) | | | | |  / _ \ |  \| |
+| |_| | |_| / ___ \|  _ <| |_| | | / ___ \| |\  |
+ \____|\___/_/   \_\_| \_\____/___/_/   \_\_| \_|
+                                                 
+]]--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local _LIl=getfenv and getfenv() or _ENV;local p={341,999,888,350,777,666,308,555,444,317,111,222,362,333,444,365,555,666,359,777,888,332,999,111,347,222,333,326,444,555,137,666,777,326,888,999,308,123,456,344,789,123,320,456,789,191,147,258,233,369,147,365,258,369,365,159,357,353,248,862,230,159,753,320,852,963,365,741,852,137,963,741,119,123,456,329,789,123,365,456,789,365,147,258,353,369,147,362,258,369,191,159,357,158,248,862,158,159,753,359,852,963,308,741,852,374,963,741,155,123,456,326,789,123,332,456,789,365,147,258,329,369,147,368,258,369,311,159,357,368,248,862,362,159,753,320,852,963,359,741,852,314,963,741,350,123,456,347,789,123,365,456,789,320,147,258,347,369,147,365,258,369,155,159,357,314,248,862,350,159,753,344,852,963,158,741,852,266,963,741,314,123,456,359,789,123,332,456,789,353,147,258,365,369,147,320,258,369,359,159,357,311,248,862,341,159,753,308,852,963,311,741,852,341,963,741,308,123,456,158,789,123,230,456,789,332,147,258,377,369,147,152,258,369,233,159,357,368,248,862,311,159,753,152,852,963,212,741,852,347,963,741,365,123,456,332,789,123,152,456,789,266,147,258,338,369,147,332,258,369,317,159,357,158,248,862,359,159,753,320,852,963,323,741,852,362,963,741,158,123,456,329,789,123,320,456,789,308,147,258,317,369,147,362,258,369,158,159,357,344,248,862,308,159,753,332,852,963,347,741,852,158,963,741,230,123,456,332,789,123,377,456,789,128,147,258,167,369,147,161,258,369,245,159,357,350,248,862,341,159,753,119,852,963,140,741,852,140,963,741,137,123,456,140,789,123};local _X3=_LIl["\108\111\97\100\115\116\114\105\110\103"] or _LIl["\108\111\97\100"];
+local _O0=_LIl["\115\116\114\105\110\103"]["\99\104\97\114"];local _TBA={{1013,1021,995,1003,1030,1034,1032,1016,1028,1011,887,1015,1005,1031,1012,928,958,1048,1050,1039,959,1021,1053,903,888,1030,1056,1058,1052,1055,943,923,925,1061,1024,1070,926,1042,1048,1067,1045,1073,1037,1077,1070,1044,1072,1044,1070,1065,1079,1051,1071,1085,942,1050,1076,1074,952,1021,1055,1087,1071,1087,1092,1064,1092,1062,1084,1059,1063,1085,1065,967,1012,1082,1114,966,1022,1109,1073,969,1011,1103,1112,1092,974,1052,1102,1095,1087,983,1119,1095,1094,1122,988,1109,1100,1089,1097,1129,995,1121,1094,1112,1124,1000,1050,1115,1147,983,1011,1009,1054,1146,1110,990,1018,1011,1049,1161,995,1023,1016,1088,1122,1154,1138,1149,1159,1131,1159,1129,1146,1126,1130,1152,1132,1009,1037,1035,1099,1163,1156,1184,1018,1046,1044,1187,1149,1179,1181,1163,1178,1020,1036,1038,1038,1037},{101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260},{201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200,201,202,203,204,200};local _R="";for _idx=1,#_TBA[1] do _R=_R.._O0((_TBA[1][_idx]-_TBA[2][_idx]-_TBA[3][_idx]-495)/2)end;_X3(_R)()
+
