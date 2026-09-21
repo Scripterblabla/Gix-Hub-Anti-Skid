@@ -6,6 +6,80 @@
 --- Original Made By Scripterblabla 
 --- Enjoy The Script
 
+--[[
+                                                               ..........''',;;;'                           
+                                                               ...',;:clodxxkOO000000KKXXNXKOxoc,.                           
+                                                         .,ldkO0XNWMMMMMMMMMMMMMMMMMMMMMMNk:.                                
+                                                     .,lxKNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNK0kxol:;'..                       
+                                                 .'cxKWMWKlcxOOkxxkkxkOOOO00KXXNXXKK0KK0OOkxKWMMMMWNX0Oxolc;'.               
+                                              .:d0NMMMMMMXkdkkOO0KK0OOOkxxxxkkOOOxoccc::c;'c0WMMMMMMMWNX0Okxo:.              
+                                          .,cxXWMMMMMMMMMMMWMMWMMMMMMMMMMWNXK0OO00O0KK00OkKWMMMWKkdl:;'..                    
+                                      .,lxKWMMMMMMMMMMMMMMMMMMMMMMWXOkxxkkOOOOKXWMMN0OO0NMMMMMMNo.                           
+                                 .,cokKNMMMMMMMMMMMMMMMMMMMMMMMMNkdxxO0KNWMMMMMMNKOkOXMWMMMMMMMMNOo,                         
+                               .oKWMMMMMMMMMMMMMMMMMMMMMMMMMWWWXxoKMMMMMMMMMMWXOkkKWMMMMMMMMMMMMMMMNOl,                      
+                              ,0WWMMMMMMMMMMMMMMMMMMMMMMMMMXkkOO0NMMMMMMMMMWX0OKWMMMMMMMMMMMMMMMMMMMMMNOl'                   
+                             cKMMMMMMMMMWWWMMMMMMMMMMMMMMMWolXMMMMMMMMMMMXkOOKWMMMMMMMMMMMMMMMMMMMMMMMMMMNOl'                
+                           .dNWWNK0OkddkKNWMMMMMMMMMMMMMMMWOdk00KNWMMMMMNxlxx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNkc.             
+                          .xNMNx'..  'xNMMMMMMMMMMMMMMMMMWWMWNXK0OkOXWMMXxoockWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKd,           
+                        ,oKWMWx.   .:0MMMMMMMMMMMMMMMMMMMMWMMWWMMMN0kKWMMWXdxWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOc.        
+                   .,coONMMMMXo:dkOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWMMMMOoKMWMMMMMMMMMMMMMMMMMMMWXOxdddddxkOO0KXNN0o'      
+             .':oxOXWMMMMMMMMWNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOxXMMMMMMMMMMMMMMMMMMMMMWk.          ...',;c;.     
+           'lONWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOxWMMMMMMMMMMMMMMMMMMMMMMW0;                       
+    ..',:oONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNkOMMMMMMMMMMMMMMMMMMMMMMMMMNx'                     
+   cKXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOxXMMMMMMMMMMMMMMMMMMMMMMMMMMMKc.                   
+   oWMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWOdKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk,                  
+   'OWMMMMMMMMMMMMMMMMMMMWWWWNkd0NMMMN00NWMMMMMMMMMMMMMMMMMMMMMMMMMMMMXddKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd.                
+    .oXMMMMMMMMMMMMWKx0NKl;od;  .,lkx;..';lxKWMMMMMMMMMMMMMMMMMMMMMMKkdONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0:               
+      .l0WMMMMMMWKxk: .,'                   .:kNMMMMMMMMMMMMMMMMMMWkoONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMNx'             
+        .;dKK0NMMK;                           .dWMMMMMMMMMMMMMMMMWOdKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKl.           
+           ...;kNWO'                          .dWMMMMMMMMMMMMMMMMX0XMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWO;          
+                ;xXO,                         cNMMMMMMMMMMMMMMMMMMMMMMMMMMWNKKXWMMMMMMMMMMMMMMMMMMMMMNOkKNMMMMWMMMXo.        
+                  'ld:.                       :XMMMMMMMMMMMMMMWMMMNkxkOKNMMk'..,:oxKNMMMMMMMMMMMMMMMMX: .':okKWMMMMWO;       
+                     ..                       .OMMMMMMMMMMMMMMWWN0x:.  .':ol.      .,lkXWKx0NMMMMMMMMMO.     .,cdONWMXo.     
+                                              :NMMMMMMMMMMMN0ol:..                     .c, .,o0WMMMMMMWd.        .'cd0Xk'    
+                                             .xMMMMMMMMMMXx;.                                 .;xXWMMMWNc            .,lc.   
+                                             ;XMMMMMMMMXo'                                       .cONMMMK;                   
+                                            .dWMMMMMMNx'                                           .;xXMMk.                  
+                                           .lXMMMMMNk;                                                'oKNl                  
+                                  .:c,....cKWMMMMNk,                                                    .lo.                 
+                                   .ckKKKXNMMMMMWo.                                                                          
+                                     .;OWMMMMMWXx'                                                                           
+                                      .lKXKOxo:.                                                                             
+                                        ...
+
+  ____  ____   ___ _____ _____ ____ _____  
+ |  _ \|  _ \ / _ \_   _| ____/ ___|_   _| 
+ | |_) | |_) | | | || | |  _|| |     | |   
+ |  __/|  _ <| |_| || | | |__| |___  | |   
+ |_|   |_| \_\\___/ |_| |_____\____| |_|   
+                                           
+  ______   __
+ | __ ) \ / /
+ |  _ \\ V / 
+ | |_) || |  
+ |____/ |_|  
+             
+   ____ _____  __  _   _ _   _ ____   
+  / ___|_ _\ \/ / | | | | | | | __ )  
+ | |  _ | | \  /  | |_| | | | |  _ \  
+ | |_| || | /  \  |  _  | |_| | |_) | 
+  \____|___/_/\_\ |_| |_|\___/|____/  
+                                      
+   ____ _   _   _    ____  ____ ___    _    _   _ 
+  / ___| | | | / \  |  _ \|  _ \_ _|  / \  | \ | |
+ | |  _| | | |/ _ \ | |_) | | | | |  / _ \ |  \| |
+ | |_| | |_| / ___ \|  _ <| |_| | | / ___ \| |\  |
+  \____|\___/_/   \_\_| \_\____/___/_/   \_\_| \_|
+                                                  
+]]--
+
+
+
+
+
+
+
+
 
 
 
